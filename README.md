@@ -37,4 +37,5 @@ A comprehensive heat map showcasing the relationship between vehicle types and c
 ![image](https://github.com/anmolvir-kaur/MotorVehicleTheftsAnalysis/blob/main/scatterplot.jpg)
 Scatterplot illustrating population density by region, demonstrating Auckland's dominance and highlighting Nelson's outlier status.
 
+![image](https://github.com/anmolvir-kaur/MotorVehicleTheftsAnalysis/blob/main/map%20of%20the%20regions.jpg)
 Map visualization depicting the number of vehicles stolen by region, with darker shades indicating higher theft rates.
