@@ -1,5 +1,5 @@
 # Understanding Vehicle Thefts in New Zealand
-![image](https://github.com/anmolvir-kaur/MotorVehicleTheftsAnalysis/blob/main/overview%20image.jpeg)
+<img src ="https://github.com/anmolvir-kaur/MotorVehicleTheftsAnalysis/blob/main/overview%20image.jpeg" width="800" height="500">
 
 ## Background: 
 Tasked with contributing insights to the New Zealand Police Department, the objective was to unravel patterns in vehicle thefts and enhance community safety.
