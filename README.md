@@ -28,8 +28,9 @@ A regional analysis disclosed that Auckland, with its high population, experienc
 This analysis contributes valuable insights to the New Zealand Police Department, promoting a proactive approach to address vehicle thefts and enhance safety within the community.
 
 ## Visualizations: 
-Objective 1: Days of the Week Heatmap
+![image](https://github.com/anmolvir-kaur/MotorVehicleTheftsAnalysis/blob/main/bar%20chart.jpg)
 Visual representation of vehicle thefts throughout the week, emphasizing the peak on Mondays and the decreasing trend towards the weekend.
+
 Objective 2: Vehicle Types and Colors Heatmap
 A comprehensive heat map showcasing the relationship between vehicle types and colors, revealing patterns that align with the most commonly stolen vehicles.
 Objective 3: Scatterplot and Map
