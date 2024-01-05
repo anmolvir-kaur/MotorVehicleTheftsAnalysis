@@ -1,5 +1,5 @@
 # Understanding Vehicle Thefts in New Zealand
-![image](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.instantwindscreens.co.nz%2Fwp-content%2Fuploads%2F2019%2F03%2FThe-Cars-Most-Frequently-Stolen-in-New-Zealand-Instant-Windscreens-1024x683.jpg&tbnid=UB4bdk9XCykOFM&vet=12ahUKEwjqlaGYqcWDAxXGJzQIHbWvDe0QMygHegQIARBe..i&imgrefurl=https%3A%2F%2Fwww.instantwindscreens.co.nz%2Fthe-cars-most-frequently-stolen-in-new-zealand%2F&docid=lFvvUmiG0yPBrM&w=1024&h=683&q=Understanding%20Vehicle%20Thefts%20in%20New%20Zealand%20image&client=safari&ved=2ahUKEwjqlaGYqcWDAxXGJzQIHbWvDe0QMygHegQIARBe)
+![image](https://github.com/anmolvir-kaur/MotorVehicleTheftsAnalysis/blob/main/overview%20image.jpeg)
 
 ## Background: 
 Tasked with contributing insights to the New Zealand Police Department, the objective was to unravel patterns in vehicle thefts and enhance community safety.
